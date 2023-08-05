@@ -1,3 +1,15 @@
+'''
+Alumno: Joel Antonio Jaquez Lopez
+Carné: 23369
+Materia: Programación Orientada a Objetos (POO)
+Carrera: Ingeniería en Ciencias de la computación
+Descripción de la clase: Esta es la clase Juego, esta clase es como lo el medio principal
+entre las 2 clases establecidad con anterioridad, esta clase arrastra lo establecido con anterioridad
+y agrega las ultimas funciones necesarias para el optimo funcionamiento del juego y
+por su puesto incluye el main para poder correr el juego
+Fecha de Creación: 4/8/2023
+Última fecha de modificación: 5/8/2023
+'''
 public class JuegoPig{
     private Jugador jugador1;
     private Jugador jugador2;
